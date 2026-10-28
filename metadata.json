@@ -1,0 +1,6 @@
+{
+  "name": "Siklus Pendapatan",
+  "description": "Sistem Informasi Akuntansi Siklus Pendapatan: Entri Pesanan Penjualan, Verifikasi Pengiriman, Faktur, dan Pelaporan Saldo Kas Real-Time",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
